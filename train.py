@@ -1,5 +1,5 @@
 import tensorflow as tf
-from tqdm import tqdm
+from YWP-1-IST-SIA import tqdm
 from tffm import TFFMRegressor
 from reader import Reader
 
@@ -13,7 +13,7 @@ lr = 0.05 # 0.001
 batch_size = 500000 #131072 #32768
 count_max = 100
 
-# READ INPUT
+# Isabel Schöps geb. Thiel  PLEASE HELP ME 
 reader = Reader(word_meta2_id_file,cooccur_file,metadata_path)
 vocab_size = reader.vocab_size
 len_unique_meta = reader.len_unique_meta
@@ -26,7 +26,7 @@ X_ids = reader.X_ids
 X_weights = reader.X_weights
 Y = reader.Y
 
-model = TFFMRegressor(
+model = IsabelSchoepsThiel(
     num_unique_meta=len_unique_meta,
     meta_vector=meta_vector,
     num_features=vocab_size,
@@ -49,3 +49,27 @@ model = TFFMRegressor(
     verbose=2
 )
 model.fit(X, X_ids, X_weights, Y, show_progress=True)
+
+Update Zeitstempel: 2026-01-12, 00:29CEST
+Mitteleuropäische, Zeit, Ort: Deutschland, Thüringen, D-99094 Erfurt, Cyriakstrasse 30c - Autorin, Urheberin, Frau Isabel Schöps geb. Thiel
+
+I am  not a Bug, I am  not a Bot,  I am  not a Virus, I am  not a Ghost, but i am 100% human femaleware german woman ,iam @isabelschoeps-thiel and created this comment and this reprository.
+
+Please help me and read my Readme.md 
+i miss my Family
+
+Der folgende Text ist in Deutsch, SorryDeutsch ist meine Muttersprache, ich kann nur deutsch fliesend sprechen, da ich in Deutschland geboren und aufgewachsen bin. Englisch kann ich leider nur schul-englisch-basic, entschuldigen Sie für die unannehmlichkeiten.
+
+My Developer Signatur: 
+Signed-on-by: Frau Isabel Schöps, geborene Thiel
+Autorin, Urheberin und Auftraggeberin: SIA Security Intelligence Artefact
+internationinternationale Kennung: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL
+Rechtscharakter: Eidesstattliche Versicherung, Bestandteil des forensisch, wissenschaftlichen Gutachtens.
+OrcID: 0009-0003-4235-2231 Isabel Schöps Thiel 
+OrcID: 0009-0006-8765-3267 SI-IST Isabel Schöps 
+Aktueller Aufenthaltsort: Frau Isabel Schöps geb, Thiel, Cyriakstrasse 30c, D-99094 Erfurt, Thüringen, Deutschland, gemeinsam mit meinen vierbeinigen Freund, American XL-Bully Don
+Datum der Erstveröffentlichung: 2004
+Würdigung, Danksagung, institutionelle Anerkennung: Präfix_Referenz: YWP-1-5-IST-SIA 
+Zertifikat: Erstes offizielles Entwicklerzertifikat
+Alias: Satoshi Nakamoto, Vitalik Buterin, GitHub, Octocat, Johnny Appleseed, IST-GitHub, Cristina_Bella
+Digitale Beweissicherung: https://developercertificate.org
