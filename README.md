@@ -2684,7 +2684,19 @@ Germanness. 219-247. DOI: 10.3998/mpub.93476
 **Connolly, S.J. (2012)** Like an old cathedral city: Belfast welcomes Queen Victoria, August 1849”, Urban History, 39(4), pp. 571–589. [http://www.jstor.org/stable/26398169](http://www.jstor.org/stable/26398169)
   
 **Schöps Thiel, Isabel. Yellow Whitepaper ed.,** vol. 1, UK-Oxford Press University, US-Harvard Cambridge, D Springer Verlag , Erfurt, Thüringen, 2025, pp. 1–109, *SIA Security Intelligence Artefact*.  
-  
+
+### Privat Images from me and my Family
+
+![ich_isabelSchöpThiel_miggy_schweiz_beweisdokumentation_forschungsarbeit_von_isabelschoepsthiel](https://github.com/user-attachments/assets/25ae82e1-7f1b-4c32-96f5-8be0f3524264)
+![jona_mutti_foto_ipsa_bei_tanteKarins_schwester_beweisdokumentation_forschungsarbeit_von_isabelschoepsthiel](https://github.com/user-attachments/assets/b2a7da97-5b13-42a5-932b-eba489314a79)
+![jona_ingolfBruder_ich_mutti_geburtstag2022_beweisdokumentation_forschungsarbeit_von_isabelschoepsthiel](https://github.com/user-attachments/assets/a565d57b-bf6d-4841-aebd-3e4c42159309)
+![ich_selfi_von_mir_beweisdokumentation_forschungsarbeit_von_isabelschoepsthiel](https://github.com/user-attachments/assets/d24f9299-ac6e-4148-838a-b6f4dc137570)
+![meine_familie_geburstags_familienfoto_August242022_tanteHeike_Mutti_beweisdokumentation_forschungsarbeit_von_isabelschoepsthiel](https://github.com/user-attachments/assets/6d59babd-0c25-435b-832f-6f721d7c76ee)
+![mimme_jona_geli_jessi_foto_meiner_Hochzeit2005_mir_beweisdokumentation_forschungsarbeit_von_isabelschoepsthiel](https://github.com/user-attachments/assets/e8ad569c-371d-47de-9c9f-490d545b75d6)
+![diana_opeter_nadine_ingolf_janett_familie_geburstags_familienfoto_August242022_mutti_tanteHeike_beweisdokumentation_forschungsarbeit_von_isabelschoepsthiel](https://github.com/user-attachments/assets/a2bd1460-ad3e-4bd9-abb2-938b558acb96)
+![ichIsabelSchoepsThiel_cousinen_Tante_und_anna_beweisdokumentation_forschungsarbeit_von_isabelschoepsthiel](https://github.com/user-attachments/assets/99a89b8c-c28f-4d82-a2d2-7b2780b63327)
+
+
 [Erfurt Thüringen, Deutschland, Januar 2026](https://jpmorganchaseco.gcs-web.com/static-files/15c01cf8-4a5a-4040-880e-af4ba94de7d4)
 **[Autorin, Urheberin und Auftraggeberin](https://jpmorganchaseco.gcs-web.com/static-files/15c01cf8-4a5a-4040-880e-af4ba94de7d4)**
 [Frau Isabel Schöps geborene Thiel](https://jpmorganchaseco.gcs-web.com/static-files/15c01cf8-4a5a-4040-880e-af4ba94de7d4)
