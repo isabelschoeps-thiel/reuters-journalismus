@@ -1,5 +1,6 @@
-cff-version: 1.0
-message: If you use this software, please cite it as below.
+cff-version: 1.0.0
+doi: 10.5281/zenodo.18216807
+date-released: 2026-01-09
 authors:
 - family-names: SCHÖPS GEB. THIEL
   given-names: ISABEL
@@ -7,11 +8,6 @@ authors:
 - family-names: Schöps geb. Thiel
   given-names: Isabel
   orcid: https://orcid.org/0009-0006-8765-3267
-title: .github
-
-cff-version: 1.0.0
-doi: 10.5281/zenodo.18216807
-date-released: 2026-01-09
 url: https://github.com/isabelschoeps-thiel/.github
   orcid: https://orcid.org/0009-0003-4235-2231
 title: reuters-journalismus
