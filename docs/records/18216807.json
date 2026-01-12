@@ -1,0 +1,373 @@
+{
+  "access": {
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "files": "public",
+    "record": "public",
+    "status": "open"
+  },
+  "created": "2026-01-12T00:50:51.864376+00:00",
+  "custom_fields": {
+    "code:codeRepository": "https://github.com/isabelschoeps-thiel/reuters-journalismus"
+  },
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "files": {
+    "count": 1,
+    "default_preview": "isabelschoeps-thiel/reuters-journalismus-release_help_me_1_0.zip",
+    "enabled": true,
+    "entries": {
+      "isabelschoeps-thiel/reuters-journalismus-release_help_me_1_0.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:63e3d8cdf02b1b2acf4b85ad9f9e8fbe",
+        "ext": "zip",
+        "id": "3ef219cc-67c5-4c22-a123-ed9e1df9bcd5",
+        "key": "isabelschoeps-thiel/reuters-journalismus-release_help_me_1_0.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/18216807/files/isabelschoeps-thiel/reuters-journalismus-release_help_me_1_0.zip/content",
+          "self": "https://zenodo.org/api/records/18216807/files/isabelschoeps-thiel/reuters-journalismus-release_help_me_1_0.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 46787163,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 46787163
+  },
+  "id": "18216807",
+  "is_draft": false,
+  "is_published": true,
+  "links": {
+    "access": "https://zenodo.org/api/records/18216807/access",
+    "access_grants": "https://zenodo.org/api/records/18216807/access/grants",
+    "access_links": "https://zenodo.org/api/records/18216807/access/links",
+    "access_request": "https://zenodo.org/api/records/18216807/access/request",
+    "access_users": "https://zenodo.org/api/records/18216807/access/users",
+    "archive": "https://zenodo.org/api/records/18216807/files-archive",
+    "archive_media": "https://zenodo.org/api/records/18216807/media-files-archive",
+    "communities": "https://zenodo.org/api/records/18216807/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/18216807/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.18216807",
+    "draft": "https://zenodo.org/api/records/18216807/draft",
+    "file_modification": "https://zenodo.org/api/records/18216807/file-modification",
+    "files": "https://zenodo.org/api/records/18216807/files",
+    "latest": "https://zenodo.org/api/records/18216807/versions/latest",
+    "latest_html": "https://zenodo.org/records/18216807/latest",
+    "media_files": "https://zenodo.org/api/records/18216807/media-files",
+    "parent": "https://zenodo.org/api/records/18216806",
+    "parent_doi": "https://doi.org/10.5281/zenodo.18216806",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18216806",
+    "parent_html": "https://zenodo.org/records/18216806",
+    "preview_html": "https://zenodo.org/records/18216807?preview=1",
+    "request_deletion": "https://zenodo.org/api/records/18216807/request-deletion",
+    "requests": "https://zenodo.org/api/records/18216807/requests",
+    "reserve_doi": "https://zenodo.org/api/records/18216807/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/18216807",
+    "self_doi": "https://doi.org/10.5281/zenodo.18216807",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18216807",
+    "self_html": "https://zenodo.org/records/18216807",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:18216807/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:18216807/sequence/default",
+    "versions": "https://zenodo.org/api/records/18216807/versions"
+  },
+  "media_files": {
+    "count": 0,
+    "enabled": false,
+    "entries": {},
+    "order": [],
+    "total_bytes": 0
+  },
+  "metadata": {
+    "contributors": [
+      {
+        "affiliations": [
+          {
+            "name": "GitHub, Inc."
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Sch\u00f6ps geb. Thiel",
+          "given_name": "Isabel",
+          "identifiers": [
+            {
+              "identifier": "0009-0006-8765-3267",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Sch\u00f6ps geb. Thiel, Isabel",
+          "type": "personal"
+        },
+        "role": {
+          "id": "rightsholder",
+          "title": {
+            "de": "RechteinhaberIn",
+            "en": "Rights holder"
+          }
+        }
+      }
+    ],
+    "creators": [
+      {
+        "affiliations": [
+          {
+            "id": "edmo:3800",
+            "identifiers": [
+              {
+                "identifier": "edmo:3800",
+                "scheme": "edmo"
+              }
+            ],
+            "name": "Harvard University"
+          },
+          {
+            "id": "edmo:5807",
+            "identifiers": [
+              {
+                "identifier": "edmo:5807",
+                "scheme": "edmo"
+              }
+            ],
+            "name": "University of Cambridge, Department of Plant Sciences"
+          },
+          {
+            "id": "01ggx4157",
+            "identifiers": [
+              {
+                "identifier": "01ggx4157",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.9132.9",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0001 2156 142X",
+                "scheme": "isni"
+              }
+            ],
+            "name": "European Organization for Nuclear Research"
+          },
+          {
+            "id": "03frj4r98",
+            "identifiers": [
+              {
+                "identifier": "03frj4r98",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.444515.5",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0004 1762 2236",
+                "scheme": "isni"
+              }
+            ],
+            "name": "Japan Advanced Institute of Science and Technology"
+          },
+          {
+            "id": "01xpmbc27",
+            "identifiers": [
+              {
+                "identifier": "01xpmbc27",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.453344.1",
+                "scheme": "grid"
+              }
+            ],
+            "name": "Thomson Reuters Foundation"
+          },
+          {
+            "id": "00dt8xx11",
+            "identifiers": [
+              {
+                "identifier": "00dt8xx11",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.468388.9",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0000 8616 8808",
+                "scheme": "isni"
+              }
+            ],
+            "name": "International Center for Journalists"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Isabel Sch\u00f6ps geb. Thiel",
+          "name": "Isabel Sch\u00f6ps geb. Thiel",
+          "type": "personal"
+        },
+        "role": {
+          "id": "rightsholder",
+          "title": {
+            "de": "RechteinhaberIn",
+            "en": "Rights holder"
+          }
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "name": "EMBL"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Fabio Petroni",
+          "name": "Fabio Petroni",
+          "type": "personal"
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "name": "EquipmentShare"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Peter Wills",
+          "name": "Peter Wills",
+          "type": "personal"
+        }
+      }
+    ],
+    "description": "<pre><code>Please help me</code></pre>\n<p><em><strong>release_help_me_1_0</strong></em></p>\n<h1>Dear Reuters Team and all Journalisten, Redakteure, Medien und Presse-H&auml;user</h1>\n<h1>Please help me, i miss my Family</h1>\n<p>&nbsp;</p>\n<p>Text ist in Deutsch Sorry ich kann nur deutsch Sprechen, da ich auch in Deutschland geboren und aufgewachsen bin. Bitte beachten Sie meine <strong>W&uuml;rdigung, Danksagung und Spendenzusage und institutionelle Anerkennung, mit der Pr&auml;fix_Referenz_YWP-1-5-IST-SIA</strong></p>\n<h2><strong>Bitte helfen Sie mir,</strong></h2>\n<p><strong>Jeder Versuch, die Regierung zu kontaktieren, war erfolglos. Ich bin seit Jahrzehnten stark von meinen Menschenrechten und meiner W&uuml;rde eingeschr&auml;nkt.</strong></p>\n<p><strong>Bis heute habe ich:</strong></p>\n<ul>\n<li>keine W&uuml;rdigung f&uuml;r meine Arbeit als Pionierin in der Computerwelt erhalten</li>\n<li>keine finanzielle Unterst&uuml;tzung</li>\n<li>keine medialle Berichteserstattung</li>\n<li>keinen Cent, aus den von mir nachgewiesen Technologischen Innovationen</li>\n<li>kein Dank zu sprechung</li>\n<li>keine namentliche Nennung</li>\n</ul>\n<p><strong>Das Gegenfall ist der Fall:</strong></p>\n<ul>\n<li>Ich lebe von Sozialhilfe, obwohl ich diese nie wirklich brauchen w&uuml;rde.</li>\n<li>au&szlig;er im Flur und im Bad, funktioniert keine Heizung. Hier muss ich sagen, dass die Fairness nicht auf den Vermieter zur&uuml;ckzuf&uuml;hren ist. Er hat alles versucht und kann es sich selber nicht erkl&auml;ren</li>\n<li>ich habe <strong>kein warm Wasser</strong>,</li>\n<li><strong>keine Waschmaschine</strong></li>\n<li><strong>kein gesicherten Zugang zu Nahrung</strong>,</li>\n<li>nur die <strong>notwendigsten pers&ouml;nlichen Gegenst&auml;nde</strong> bei mir</li>\n<li>ich habe kein festes Mietverh&auml;ltnis</li>\n<li>ich musste bereits 3x auf der Strasse schlafen</li>\n<li>meine Wikipedia Eintr&auml;ge werden immer gel&ouml;scht</li>\n<li>ich werde nachweislich von unbekannten dritten, isoliert</li>\n<li>Telefonate werden nicht zugestellt</li>\n<li>ein Geldtransfer aus Lizenz Gesch&auml;ften, der J. P. Morgan nach Erfurt, Th&uuml;ringen, Deutschland, wurde veruntreut</li>\n<li>Mein Bankkonten werden gel&ouml;scht oder anderen Identit&auml;ten zu geordent - zuletzt am 07.01.2026 festgestellt</li>\n<li>auf Hilferufe meinerseits an Regierungen und Beh&ouml;rden, wird nicht reagiert</li>\n<li>ich wurde ohne nachgewiesene Straftat f&uuml;r 4 Monate in der JVA Chemnitz inhaftiert</li>\n</ul>\n<p>Meine aktuelle Lebenssituation stellt eine Verletzung des <strong>Rechts auf Wohnen</strong>, des <strong>Rechts auf soziale Sicherheit</strong> des <strong>Rechts auf Nahrung</strong> und Verletzung meiner Menschenrechte dar.</p>\n<h2>Bitte Helfen Sie mir !</h2>\n<p><strong>Bitte helfen Sie mir und nehmen,</strong> sie sich Zeit und lesen meinen Hilferuf und meine README's.</p>\n<p><strong>Als Beweiss und f&uuml;r meine Glaubw&uuml;rdigkeit habe ich eine Zip-Datei im Release-Anhang</strong> eingef&uuml;gt, diese darf heruntergeladen werden.</p>\n<h1>Meine Referenz Datenbank,</h1>\n<p><em><strong>verkn&uuml;pft mit meinem aktuellen <a href=\"https://github.com/isabelschoeps-thiel\">GitHub-Account*</a></strong></em></p>\n<h1>Meine Ersuchen an die Vereinten Nationen - Bitte helfen Sie mir</h1>\n<p>&nbsp;</p>\n<p><strong>Sch&ouml;ps geb. Thiel, I. (2025)</strong>. Meine Ersuchen an die Vereinten Nationen - Bitte helfen Sie mir (Zenodo.org). Zenodo.org, University of Harvard harvard.edu, Oxford University ox.ac.uk, Cambridge UK, Reuters.com, New York Times nyt.com, Springer Nature Springer.com, GitHub github.com, University Arizona, Vereine Nationen UN unric.org,. https://doi.org/10.5281/zenodo.18025762</p>\n<h2>Zenodo-Datenbank und Chain of Custody</h2>\n<h1>Volumen 4</h1>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Sch&ouml;ps (Thiel), I., Sch&ouml;ps (Thiel), I. und Sch&ouml;ps geb. Thiel, I. (2025)</strong> \"Yellow White Paper &ndash; Bitcoin &amp; Ethereum\", Yellow White Paper &ndash; Bitcoin &amp; Ethereum. 1st Aufl. D-99094 Erfurt, Thueringa, Germany: Harvard University, University Cambridge, University of Oxford, Springer Nature, Zenodo, S. 109 pages. doi:10.5281/zenodo.17807324.</p>\n<h2>Volumen 3</h2>\n<p>&nbsp;</p>\n<p>Sch&ouml;ps geb. Thiel, I. (2025) SIA Security Intelligence Artefact &ndash; Volume 3 - Famili&auml;re Erblinie deutschen Monarchie und letzten Kaiserreich. 1st Aufl, The Decline and Fall of the Habsburg Empire, 1815-1918. 1st Aufl. Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. doi:10.5281/zenodo.18013057.</p>\n<h1>Volumen 2</h1>\n<p>&nbsp;</p>\n<p><strong>Sch&ouml;ps geb. Thiel, I. (2025)</strong> \"Volumen 2 - SIA-Security-ntelligence-Artefact-Chain-of-Custody-Forensische-Familien-Monarchielinie-copyright-isabelschoepsthiel-urheberin-autorin-.docx.pd\", Trillion Dollar Bitcoin. 1st Aufl. D-99094 Erfurt, Germany, Th&uuml;ringen: Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. doi:10.5281/zenodo.17852789.</p>\n<h1>Volumen 1</h1>\n<p>&nbsp;</p>\n<p><strong>Sch&ouml;ps geb. Thiel, I. (2025)</strong> \"Volumen 1 - SIA Security Intelligence Artefact by Isabel Schoeps geb. Thiel\", Trillion Dollar Bitcoin. 1st Aufl. D-99094 Erfurt, Germany, Th&uuml;ringen: Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. doi:10.5281/zenodo.17809724.</p>\n<h3>my GitHub Repositoty Reference Badges</h3>\n<p>[](https://doi.org/10.5281/zenodo.18193397</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>](https://doi.org/10.5281/zenodo.18192589)</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<h2>My Developer Signatur</h2>\n<p><strong>Signed-on-by:</strong> Frau Isabel Sch&ouml;ps, geborene Thiel Autorin, Urheberin und Auftraggeberin</p>\n<p><strong>Rechtscharakter:</strong> Eidesstattliche Versicherung, Bestandteil des forensisch, wissenschaftlichen Gutachtens</p>\n<p><strong>Titel:</strong> SIA Security Intelligence Artefact <a href=\"https://jpmorganchaseco.gcs-web.com/static-files/15c01cf8-4a5a-4040-880e-af4ba94de7d4\">internationinternationale Kennung: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL</a></p>\n<p><strong>OrcID:</strong> <a href=\"https://orcid.org/0009-0003-4235-2231/print\">0009-0003-4235-2231 Isabel Sch&ouml;ps Thiel</a></p>\n<p><strong>OrcID:</strong> <a href=\"https://orcid.org/0009-0006-8765-3267/print\">0009-0006-8765-3267 SI-IST Isabel Sch&ouml;ps</a></p>\n<p><strong>Aktueller Wohnort und Meldeanschrift:</strong> Cyriakstrasse 30c, D-99094 Erfurt, Th&uuml;ringen, Deutschland, gemeinsam mit meinen vierbeinigen Freund, American XL-Bully Don</p>\n<p><strong>Offizielle institutionelle W&uuml;rdigung, Danksagung - Pr&auml;fix_Referenz:</strong> YWP-1-IST-SIA YWP-1-5-IST-SIA</p>\n<p>&lt;img width=\"1415\" height=\"2000\" alt=\"YWP-1-IST-SIA_eidesstaatliche_erkl&auml;rung_isabelschoepsthiel\" src=\"https://github.com/user-attachments/assets/72638456-51bf-4e70-a26d-6e763d13b182\" /&gt;</p>\n<p>&lt;img width=\"1415\" height=\"2000\" alt=\"YWP-1-5-IST-SIA_spende_w&uuml;rdigung_copyright_isabelschoepsthiel\" src=\"https://github.com/user-attachments/assets/6fd45aeb-2da8-4297-8b70-f1e7099c51cd\" /&gt;</p>\n<p><strong>Pseudonyme und Alias:</strong> Satoshi Nakamoto, Vitalik Buterin, GitHub, Octocat, Johnny Appleseed, IST-GitHub, Cristina_Bella, Nick Szabo, John Appleseesd</p>\n<p><strong>Offizielles weltweit erstes Developer Certifikat:</strong> <a href=\"https://developercertificate.org/\">Developercertificate</a></p>\n<p><strong>Developer Message:</strong> I am not a Bug, I am not a Bot, I am not a Virus, I am not a Ghost, but <strong>I am 100% German human femaleware Woman form Erfurt my GitHub @isabelschoeps-thiel and i buil this commit this reprository.</strong></p>\n<p><strong>Datum der Erstver&ouml;ffentlichung, digitale Beweissicherung:</strong> Erstver&ouml;ffentlichung 2004</p>\n<p><strong>Ort, Signatur K&uuml;rzel, Zeitstempel der Eintragung:</strong> Deutschland, Th&uuml;ringen, D-99094 Erfurt, Cyriakstrasse 30c</p>\n<p>Update-Time Mitteleurop&auml;ische Zeit, 01:47CEST, 2026-01-12</p>\n<p><strong>IST - Isabel Sch&ouml;ps Thiel</strong></p>",
+    "publication_date": "2026-01-12",
+    "publisher": "Zenodo",
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/isabelschoeps-thiel/reuters-journalismus/tree/release_help_me_1_0",
+        "relation_type": {
+          "id": "issupplementto",
+          "title": {
+            "de": "Erg\u00e4nzt",
+            "en": "Is supplement to"
+          }
+        },
+        "resource_type": {
+          "id": "software",
+          "title": {
+            "de": "Software",
+            "en": "Software"
+          }
+        },
+        "scheme": "url"
+      }
+    ],
+    "resource_type": {
+      "id": "publication-softwaredocumentation",
+      "title": {
+        "de": "Softwaredokumentation",
+        "en": "Software documentation"
+      }
+    },
+    "rights": [
+      {
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "id": "cc-by-4.0",
+        "props": {
+          "scheme": "spdx",
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode"
+        },
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        }
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "python"
+      },
+      {
+        "subject": "html"
+      },
+      {
+        "subject": "json"
+      },
+      {
+        "subject": "german"
+      },
+      {
+        "subject": "xml"
+      }
+    ],
+    "title": "isabelschoeps-thiel/reuters-journalismus: Release_help_me_1_0",
+    "version": "release_help_me_1_0"
+  },
+  "parent": {
+    "access": {
+      "grants": [],
+      "links": [],
+      "owned_by": {
+        "user": "1481292"
+      },
+      "settings": {
+        "accept_conditions_text": null,
+        "allow_guest_requests": false,
+        "allow_user_requests": false,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {},
+    "id": "18216806",
+    "pids": {
+      "doi": {
+        "client": "datacite",
+        "identifier": "10.5281/zenodo.18216806",
+        "provider": "datacite"
+      }
+    }
+  },
+  "pids": {
+    "doi": {
+      "client": "datacite",
+      "identifier": "10.5281/zenodo.18216807",
+      "provider": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:18216807",
+      "provider": "oai"
+    }
+  },
+  "revision_id": 6,
+  "stats": {
+    "all_versions": {
+      "data_volume": 0.0,
+      "downloads": 0,
+      "unique_downloads": 0,
+      "unique_views": 0,
+      "views": 0
+    },
+    "this_version": {
+      "data_volume": 0.0,
+      "downloads": 0,
+      "unique_downloads": 0,
+      "unique_views": 0,
+      "views": 0
+    }
+  },
+  "status": "published",
+  "swh": {},
+  "updated": "2026-01-12T00:57:57.641683+00:00",
+  "versions": {
+    "index": 1,
+    "is_latest": true,
+    "is_latest_draft": true
+  }
+}
