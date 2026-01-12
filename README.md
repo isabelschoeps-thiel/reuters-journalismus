@@ -1,6 +1,8 @@
 # Dear Reuters-Team or all Journalist, 
 ***Please help me - i miss my Family***
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18216807.svg)](https://doi.org/10.5281/zenodo.18216807)
+
 [![DOI](https://zenodo.org/badge/1104698616.svg)](https://doi.org/10.5281/zenodo.18192589)
 
 ***Der folgende Text ist in Deutsch, Sorry*** Deutsch ist meine Muttersprache, ich kann nur deutsch fliesend sprechen, da ich in Deutschland geboren und aufgewachsen bin. Englisch kann ich leider nur schul-englisch-basic, entschuldigen Sie für die unannehmlichkeiten. 
